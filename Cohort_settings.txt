@@ -1,0 +1,15 @@
+Cohort Name: June 2023 Onboarding Users (US, iOS & Android)
+
+Filters:
+- Country = United States
+- Platform = iOS OR Android
+- Event = Welcome
+- First occurrence only (historical count = 1)
+
+Date Range:
+- June 1, 2023 – June 30, 2023
+
+Purpose:
+This cohort includes users who first triggered the "Welcome" event during June 2023,
+on either iOS or Android platforms, and are located in the United States.
+It serves as the base segment for onboarding funnel analysis and retention tracking.
