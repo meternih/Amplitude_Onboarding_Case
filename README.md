@@ -31,3 +31,9 @@ This project demonstrates how to analyze user onboarding behavior using Amplitud
 - `journey_map.png` — bonus task screenshot
 - `cohort_settings.txt` — cohort parameters
 - `funnel_notes.md` — funnel logic explanation
+
+###  For registered Amplitude users:
+[View the dashboard](https://app.amplitude.com/analytics/demo/dashboard/e4p1iuaj)
+
+
+
